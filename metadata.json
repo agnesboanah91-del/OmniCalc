@@ -1,0 +1,5 @@
+{
+  "name": "OmniCalc",
+  "description": "An all-in-one intelligent calculator featuring basic/scientific math, currency conversion, time calculations, and AI-powered problem solving.",
+  "requestFramePermissions": []
+}
